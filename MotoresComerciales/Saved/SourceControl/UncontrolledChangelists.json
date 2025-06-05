@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/Levels/Dessert_Iland.umap",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Actors/BP_EnemySpawner.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Actors/BP_Enemy.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Actors/FangSpawn.uasset"
+			]
+		}
+	]
+}
