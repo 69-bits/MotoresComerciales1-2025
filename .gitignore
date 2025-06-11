@@ -8,6 +8,8 @@
 *.obj
 *.glb
 
+*.uasset
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -73,4 +75,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignorar archivos de caché
+Cache/
+Code Cache/
+webcache_4430/
+
 
