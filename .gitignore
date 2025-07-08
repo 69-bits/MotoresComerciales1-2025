@@ -81,4 +81,8 @@ Cache/
 Code Cache/
 webcache_4430/
 
+/Saved/
+*.pdb
+*.ucas
+
 
